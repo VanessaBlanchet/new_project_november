@@ -22,5 +22,6 @@ Le projet est publié sur GitHub en public.
 Je crée une branche develop et c'est à partir de celle-ci que je vais "tirer" d'autres branches au fur et à mesure de l'avancement du projet. 
 
 Je pense notamment travailler sur deux sous-branches principales : front et back
+Je protège ma branche master en imposant une pull request
 
 
